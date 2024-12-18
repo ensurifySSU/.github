@@ -1,6 +1,14 @@
-## 📄 프로젝트 매뉴얼
+## ensurify
 [🔗ensurify 매뉴얼](https://drive.google.com/file/d/1l-Fgm7u8kJbt8NIuPoRwRQqvjxMSqBXl/view?usp=drive_link)
 ---
+### OurTeam
+<table>
+  <tr>
+        <td align="center"><a href="https://github.com/SooY2"><img src="https://avatars.githubusercontent.com/u/101343915?v=4" width="100px;" alt=""/><br /><sub><b>SooY2</b></sub></a></td>
+        <td align="center"><a href="https://github.com/yueunfive"><img src="https://avatars.githubusercontent.com/u/122276414?v=4" width="100px;" alt=""/><br /><sub><b>yueunfive</b></sub></a></td>
+        <td align="center"><a href="[https://github.com/KIMGEONHWI](https://github.com/HwangSunBeom)"><img src="https://avatars.githubusercontent.com/u/72551358?v=4" width="100px;" alt=""/><br /><sub><b>HwangSunBeom</b></sub></a></td>
+   </tr>
+</table>
 ![Welcome](https://github.com/user-attachments/assets/17e7d1a3-a3bd-4ce0-8c03-d06c8e238f52)
 ![목차](https://github.com/user-attachments/assets/072835a2-5cf6-46d6-9f19-3f121e828c44)
 ![팀원 소개](https://github.com/user-attachments/assets/51b47490-7dd0-4316-a7e3-da284baad001)
